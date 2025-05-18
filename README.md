@@ -1,8 +1,10 @@
-# BridgingAnalyzer 搭路练习
+# 适用于制作 Housing PVP Practice 的 BridgingAnalyzer 搭路练习插件
+
+本插件由“BridgingAnalyzer”插件进行二次开发
 
 ![](https://img.shields.io/github/license/SakuraKoi/BridgingAnalyzer?style=flat-square) ![](https://img.shields.io/github/downloads/SakuraKoi/BridgingAnalyzer/total?style=flat-square) ![](https://img.shields.io/bstats/players/3991?style=flat-square) ![](https://img.shields.io/bstats/servers/3991?style=flat-square)
 
-Minecraft Bridging Practice for Bedwars
+Minecraft Housing PVP Practice for Bedwars
 
 本项目使用了[Lombok](https://projectlombok.org/)完成Getter和Setter的代码生成, 请自行安装至IDE/构建工具以编译项目
 
